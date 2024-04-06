@@ -135,7 +135,7 @@
       }
     }
 
-    else if($registro["ciudad"] == '1'){
+    else if($registro["ciudad"] == '3'){
       foreach($london as $programa) {
         if(count($programa) < 5) {
           if($registro["programa"] == "1") {
